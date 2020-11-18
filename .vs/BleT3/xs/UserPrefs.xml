@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{53679086-7DE7-4B77-9BDC-293FF08B6A73}|Default">
+  <MonoDevelop.Ide.ItemProperties.BleT3 FirstBuild="True" PreferredExecutionTarget="Android.196a312c" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="BleT3/MainActivity.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BleT3" expanded="True">
+            <Node name="BleT3" expanded="True">
+              <Node name="GettingStarted" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
